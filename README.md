@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">**Frontend Developer | AEM Developer | Web Developer | Software Developer **  <br>With over 3 years of experience in building modern web applications, I specialize in JavaScript, React, and AEM. I’m passionate about keeping up with the latest trends in AI and design principles.<br><br>🔭 **Currently learning:**  <br>- Advanced JavaScript concepts, modern frameworks, and AEM best practices.<br>- Exploring new design patterns and AI trends.<br><br>🌱 **I’m looking for:**  <br>- Opportunities where I can leverage my expertise and learn in a dynamic environment.</p>
+<p align="left">**Full-stack/ AEM Developer | Software Developer **  <br>With over 3 years of experience in building modern web applications, I specialize in JavaScript, React, and AEM. I’m passionate about keeping up with the latest trends in AI and design principles.<br><br>🔭 **Currently learning:**  <br>- Advanced JavaScript concepts, modern frameworks, and AEM best practices.<br>- Exploring new design patterns and AI trends.<br><br>🌱 **I’m looking for:**  <br>- Opportunities where I can leverage my expertise and learn in a dynamic environment.</p>
 
 ###
 
