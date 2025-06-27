@@ -5,11 +5,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/prinkal-dabre-5397561a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/prinkal-dabre/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="dabreprinkal166@gmail.com" target="_blank">
+  <a href="dabreprinkall@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+<a href="https://leetcode.com/u/PrinkalD/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/dabreprinkal166" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
@@ -26,7 +29,7 @@
 
 ###
 
-<p align="left">**Full-stack/ AEM Developer | Software Developer **  <br>With over 3 years of experience in building modern web applications, I specialize in JavaScript, React, and AEM. I’m passionate about keeping up with the latest trends in AI and design principles.<br><br>🔭 **Currently learning:**  <br>- Advanced JavaScript concepts, modern frameworks, and AEM best practices.<br>- Exploring new design patterns and AI trends.<br><br>🌱 **I’m looking for:**  <br>- Opportunities where I can leverage my expertise and learn in a dynamic environment.</p>
+<p align="left">*** Full-stack/ AEM Developer | Software Developer ***  <br>With over 3 years of experience in building modern web applications, I specialize in JavaScript, TypeScript, React, Angular, WordPress and AEM. I’m passionate about keeping up with the latest trends in AI and design principles.<br><br>🔭 **Currently learning:**  <br>- Advanced JavaScript concepts, modern frameworks, and AEM best practices.<br>- Exploring new design patterns and AI trends.<br><br>🌱 **I’m looking for:**  <br>- Opportunities where I can leverage my expertise and learn in a dynamic environment.</p>
 
 ###
 
